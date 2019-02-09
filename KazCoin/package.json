@@ -1,0 +1,19 @@
+{
+  "name": "compiletestcoin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Charissa",
+  "license": "ISC",
+  "devDependencies": {
+    "path": "^0.12.7",
+    "solc": "^0.5.3"
+  },
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "web3": "^1.0.0-beta.41"
+  }
+}
